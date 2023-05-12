@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo  
+
+Site is live at https://pmging.github.io/react-expense-tracker/
+
 ## Available Scripts
 
 In the project directory, you can run:
